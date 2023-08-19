@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "885793696434",
+    "project_id": "markazapp-2285f",
+    "storage_bucket": "markazapp-2285f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885793696434:android:3e330f12c6a71292c2f7ab",
+        "android_client_info": {
+          "package_name": "com.example.dukan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885793696434-m8okiparq67qvgi2o5fr0krpi0hvuuk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD828SOUiAAA4FEvB3r-XglVe1FN7UY1lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885793696434-m8okiparq67qvgi2o5fr0krpi0hvuuk3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "885793696434-0pceee4ugccj2qj483ohq2cnrbl68c6f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dukan.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>885793696434-0pceee4ugccj2qj483ohq2cnrbl68c6f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.885793696434-0pceee4ugccj2qj483ohq2cnrbl68c6f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDwzobmNlc7YwOk2UCXCnasj0WNS8bSvU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>885793696434</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.dukan.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>markazapp-2285f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>markazapp-2285f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:885793696434:ios:a33620ab428f05c5c2f7ab</string>
+</dict>
+</plist>
